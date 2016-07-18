@@ -1,20 +1,7 @@
 # toedippers - node.js
 
-## js on the server
+Code examples for the node.js edition of Toe Dippers!
+Takes place during Level Up event by devICT / Wichita Women Who Code!
 
-## what it's good for
-
-## notable attributes
-### single threaded
-### runs on googles v8
-### gained popularity quickly
-
-## getting started
-### installing w/ nvm
-### npm
-### express
-### nodeschool
-
-## node projects
-### devict-hubot
-### ...
+[Slides
+here](https://docs.google.com/presentation/d/1w8LWZjAw5bcu2EJqYR_BHXHwqspLTu8bb2yvoypqo2c/edit?usp=sharing).
